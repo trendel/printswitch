@@ -6,6 +6,7 @@ namespace PrintSwitch
 {
     static class Program
     {
+        // My comment
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
